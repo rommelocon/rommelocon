@@ -44,8 +44,17 @@ I'm a passionate developer who builds performant, responsive, and visually engag
 ### 📊 GitHub Stats
 
 ![Rommel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rommelocon&show_icons=true&theme=radical&hide=prs)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rommelocon&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rommelocon&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 
-_Thanks for visiting my profile! 🚀_
+### 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=rommelocon&theme=radical&margin-w=10&margin-h=10&row=2&column=4)
+
+---
+
+_Thanks for visiting my profile! Let's build something awesome together! 🚀_
